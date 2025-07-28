@@ -1,1 +1,4 @@
-Could not find the yaml file in the internal stage
+# requirements.txt
+
+snowflake-snowpark-python
+streamlit
